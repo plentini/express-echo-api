@@ -1,15 +1,15 @@
 # express-echo-api
 Receive a text and respond with the same text
 
-##For install execute:
+## For install execute:
 
 npm install
 
-##Then for run, execute:
+## Then for run, execute:
 
 npm start
 
-##For Run tests execute:
+## For Run tests execute:
 
 npm test
 
